@@ -1,0 +1,22 @@
+h1  {
+  font-weight: bold;
+  text-align: center;
+  color: crimson;
+}
+
+h2  {
+    text-align: center;
+  }
+
+.sidebar  {
+  border: 2px solid black;
+  padding: 4px;
+  margin: 12px;
+  width: 25%;
+  float: left;
+  background-color: crimson;
+}
+
+img {
+  float: right;
+}
